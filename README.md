@@ -1,1 +1,1 @@
-# GCOS-2021-what-to-do
+# GCOS-2021 what to do
