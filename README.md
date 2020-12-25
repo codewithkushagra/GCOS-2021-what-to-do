@@ -1,4 +1,4 @@
-# GCoS-2021 what to do
+# GCoS 2021 what to do
 
 ### What is GSOC?
 
