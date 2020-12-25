@@ -16,7 +16,8 @@ First and for most thing is you get a real world experience working, you get an 
 
 ### Am I good enough to take part?
 ```
-Do you have some programming experience at the university level? Then, yes, you are good enough!
+Do you have some programming experience at the university level? And You know how to use git and gihub. 
+Then, yes, you are good enough!
 ```
 You should know how to search the web for techinal questions, The community developed software model relies heavily on constructive feedback and the willingness for each contributor to take that criticism and make the code better. You are going to be getting regular feedback from your mentor – not all of it is going to be “this is great” “you are awesome.” Learning from and graciously accepting feedback is a very important trait for a successful GSoC student. You should know how to work independently. Do you think you already know everything about everything in the world of open source programming? Then you probably aren’t good enough for GSoC! You should know to install and configure the software, in order to create the work envirnoment for the projects. You should have a laptop or a computer 18 hours a week. Don’t be afraid to apply to projects where you only meet 30% of the listed requirements. 
 
@@ -40,6 +41,8 @@ You should know how to search the web for techinal questions, The community deve
 
 ### All Categories?
 
+![laoding...](https://media.geeksforgeeks.org/wp-content/uploads/20191114145021/GSOC-org.png)
+
 - [Web](https://summerofcode.withgoogle.com/archive/2020/organizations/?category=web)
 - [Sciennce and Medicine](https://summerofcode.withgoogle.com/archive/2020/organizations/?category=science_and_medicine)
 - [End User Application](https://summerofcode.withgoogle.com/archive/2020/organizations/?category=end_user_applications)
@@ -54,5 +57,15 @@ You should know how to search the web for techinal questions, The community deve
 
 ### Over View-
 
-![loading...](https://jamaicandevelopers.com/general/gsoc/gsoc-how-it-works.png/@@images/image.png)
+![loading...](https://miro.medium.com/fit/c/1838/551/1*ZB_tL4duXGX7DMc942cKFw.png)
+
+A key goal of GSoC is to produce useful code that is integrated into the code base of your community. So, try to be creative and you should knowwhat you are getting into.
+
+
+### Some Useful Link-
+
+- [GSoC](https://summerofcode.withgoogle.com/)
+- [How to do and What to do](https://google.github.io/gsocguides/student/making-first-contact)
+- [How it works](https://summerofcode.withgoogle.com/how-it-works/#)
+- [2020 GSoC Projects](https://summerofcode.withgoogle.com/archive/2020/projects/)
 
