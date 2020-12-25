@@ -37,3 +37,22 @@ You should know how to search the web for techinal questions, The community deve
 - **Students Submit Code and Final Evaluations**: From August 16 - 23, 2021 students submit their code, project summaries, and final evaluations of their mentors.
 - **Mentors Submit Final Evaluations**: From August 23 - 30, 2021 Mentors review student code samples and determine if the students have successfully completed their Google Summer of Code 2021 project.
 - **Results Announced**: From August 31, 2021 Students are notified of the pass/fail status of their Google Summer of Code 2021 projects.
+
+### All Categories?
+
+- [Web](https://summerofcode.withgoogle.com/archive/2020/organizations/?category=web)
+- [Sciennce and Medicine](https://summerofcode.withgoogle.com/archive/2020/organizations/?category=science_and_medicine)
+- [End User Application](https://summerofcode.withgoogle.com/archive/2020/organizations/?category=end_user_applications)
+- [Programming Languages and DevelopmentTools](https://summerofcode.withgoogle.com/archive/2020/organizations/?category=languages)
+- [Others](https://summerofcode.withgoogle.com/archive/2020/organizations/?category=other)
+- [Cloud](https://summerofcode.withgoogle.com/archive/2020/organizations/?category=cloud)
+- [Graphic/Audio/Video/Vitual Reality](https://summerofcode.withgoogle.com/archive/2020/organizations/?category=graphics)
+- [Security](https://summerofcode.withgoogle.com/archive/2020/organizations/?category=security)
+- [Operating System](https://summerofcode.withgoogle.com/archive/2020/organizations/?category=operating_systems)
+- [Social/Communications](https://summerofcode.withgoogle.com/archive/2020/organizations/?category=social_communications)
+- [Data and DataBase](https://summerofcode.withgoogle.com/archive/2020/organizations/?category=data_and_databases)
+
+### Over View-
+
+![loading...](https://jamaicandevelopers.com/general/gsoc/gsoc-how-it-works.png/@@images/image.png)
+
